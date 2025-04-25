@@ -1,40 +1,108 @@
 # Equator Mojo
 
 ## Educational Content for the Mojo Programming Language
+<h1 align="center">Equator Mojo</h1>
+
+<h2 align="center">Educational Content on the Mojo Programming Language</h2>
 
 <p align="center">
-  <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
-  </a>
-  <a href="./LICENSE-QCDA">
-    <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
-  </a>
+  <a href="https://www.modular.com/mojo"><img src="https://img.shields.io/badge/Mojo%F0%9F%94%A5-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABR0lEQVQ4y52TvUoDQRSFz51ZJdndGIxYpBIRtLEQLARBsLCxEfEBfAGfQHyEFDbpU9kIFoKdrU1AEFGCkH92Z+ZaZDcJm91IOoeB4d7vfHNnLpBimqaUp2mHmuDz12v/ETBJEgrdA9eABjrNpnm4vpr1fO/0t4zGGFar1aNzQTPOTg+8MqBB6wgA3ntJ0gGcn1/MGLtY2a2M54s+L+97qwASRCQgQ/0OOO/F4y7KfwklD8Dl3UM0DpNqBjRsQf9WuVg8rtfb3l3pBmMMQggIIRA1I4gO4Ksdr9uOYRxLlRv/B2xBC0DKrDJzc04fgxvbytR00HdUYTTCVmtEfgUoAVUAfYkgxGbbjjJrUgYA0AaGC6A9Yl0CvdVQBnR3lHkbX4/73fYpIJ1njBARZlmG+R7FmHFhBFdvj1fm5+jkG8bYPSbznRSKAAAAAElFTkSuQmCC" alt="Mojo"></a>
+  <br>
+  <a href="https://docs.modular.com/mojo"><img src="https://img.shields.io/badge/Mojo-Documentation-blue?style=flat-square" alt="Mojo Documentation"></a>
+  <a href="https://github.com/modularml/mojo"><img src="https://img.shields.io/badge/Mojo-Repository-green?style=flat-square" alt="Mojo Repository"></a>
+  <br>
+  <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
+  <a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA"></a>
 </p>
 
-<div align="center">
 
-## Authors
-<p align="center">
-Matthew A. Porter, BSc<sup>1</sup>
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/phaedrusflow)
-<sup>1</sup>Qompass AI, Spokane, WA  
-<div align="center">
 
-<h4 align="center">Connect With Me</h4>
-<div align="center">
+### 📄 <Mojo Projects>
+
+- [Qompass blaze.nvim](https://github.com/qompassai/blaze.nvim)
+- [Qompass blaze-ts.nvim](https://github.com/qompassai/blaze-ts.nvim)
+
+---
+
+<details id="Contact">
+  <summary><strong>Contact Qompass AI</strong></summary>
+
+ <div align="center">
+  <p>Matthew A. Porter<sup>1</sup><br>
+  <sup>1</sup>Qompass AI, Spokane, WA</p>
   
-[![Personal LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt-a-porter-103535224/)
-[![Startup LinkedIn](https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/95058568/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-0302-4812)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Open--Research-blue?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Matt-Porter-7)
-</div>
-<h3 align="center">Social Media</h3>
-<div align="center">
+  <h3>Publications</h3>
+  <p>
+    <a href="https://orcid.org/0000-0002-0302-4812">
+      <img src="https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid" alt="ORCID">
+    </a>
+    <a href="https://www.researchgate.net/profile/Matt-Porter-7">
+      <img src="https://img.shields.io/badge/ResearchGate-Open--Research-blue?style=flat-square&logo=researchgate" alt="ResearchGate">
+    </a>
+    <a href="https://zenodo.org/communities/qompassai">
+      <img src="https://img.shields.io/badge/Zenodo-Publications-blue?style=flat-square&logo=zenodo" alt="Zenodo">
+    </a>
+  </p>
   
-[![X/Twitter](https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter)](https://twitter.com/PhaedrusFlow)
-[![Instagram](https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/phaedrusflow)
-[![YouTube](https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube)](https://www.youtube.com/@qompassai)
+  <h3>Professional Profiles</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/matt-a-porter-103535224/">
+      <img src="https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin" alt="Personal LinkedIn">
+    </a>
+    <a href="https://www.linkedin.com/company/95058568/">
+      <img src="https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin" alt="Startup LinkedIn">
+    </a>
+  </p>
+  
+  <h3>Social Media</h3>
+  <p>
+    <a href="https://twitter.com/PhaedrusFlow">
+      <img src="https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter" alt="X/Twitter">
+    </a>
+    <a href="https://www.instagram.com/phaedrusflow">
+      <img src="https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram" alt="Instagram">
+    </a>
+    <a href="https://www.youtube.com/@qompassai">
+      <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="YouTube">
+    </a>
+  </p>
+  
+<div align="center">
+<h3>Support & Funding</h3>
+
+<table>
+<tr>
+<th align="center">💰 Pre-Seed Funding 2023-2025</th>
+<th align="center">🏆 Amount</th>
+<th align="center">📅 Date</th>
+</tr>
+<tr>
+<td><a href="https://github.com/qompassai/r4r" title="RJOS/Zimmer Biomet Research Grant Repository">RJOS/Zimmer Biomet Research Grant</a></td>
+<td align="center">$30,000</td>
+<td align="center">March 2024</td>
+</tr>
+<tr>
+<td onclick="window.open('https://github.com/qompassai/PathFinders', '_blank')">
+  <a href="https://github.com/qompassai/PathFinders" title="GitHub Repository">Pathfinders Intern Program</a>
+  <br>
+  <small><a href="https://www.linkedin.com/posts/evergreenbio_bioscience-internships-workforcedevelopment-activity-7253166461416812544-uWUM/" onclick="event.stopPropagation()" target="_blank">View on LinkedIn</a></small>
+</td>
+<td align="center">$2,000</td>
+<td align="center">October 2024</td>
+</tr>
+</table>
+
+<p>Your support helps us continue building innovative solutions at the intersection of health and education.</p>
+
+<a href="https://www.buymeacoffee.com/phaedrusflow" target="_blank">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" width="250" />
+</a>
+
+<hr width="50%" style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
 </div>
+
 <h3 align="center">Developer Programs</h3>
 <div align="center">
  
@@ -44,6 +112,7 @@ Matthew A. Porter, BSc<sup>1</sup>
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
 [![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
 </div>
+</details>
 
 <details id="FAQ">
   <summary><strong>Frequently Asked Questions</strong></summary>
@@ -124,7 +193,7 @@ Where:
 <details id="Zenodo DOI">
   <summary><strong>Digital Object Identifier (DOI) for public transparency and accountability</strong></summary>
 Badge
-</details>
+
 
 ```markdown
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
@@ -133,17 +202,14 @@ Badge
 ---
 
 - See `.zenodo.json` for metadata, authorship, licensing, and related software attribution.
-
-<details id="Support">
-  <summary><strong>How You Can Support</strong></summary>
-Badge
-
-If you like Qompass AI and the work we do, consider [buying us a coffee](https://www.buymeacoffee.com/phaedrusflow) ☕ or sponsoring ❤️.
-
 </details>
+
+## 🧭 Attribution
+
+
+
 <details id="Dual-License Notice">
   <summary><strong>What a Dual-License Means</strong></summary>
-Badge
 
 ### Protection for Vulnerable Populations
 
@@ -191,4 +257,11 @@ By offering both open source and commercial licensing options, we strive to crea
 [^8]: [Minneapolis school district says data breach affected more than 100,000 people](https://therecord.media/minneapolis-schools-say-data-breach-affected-100000/)
 </details>
 
-![Repository Views](https://komarev.com/ghpvc/?username=qompassai-Mojo)
+
+
+![Repository Views](https://komarev.com/ghpvc/?qompassai-Mojo)
+
+<p align="center">
+  <i>Last Updated: <timestamp></i>
+</p>
+
