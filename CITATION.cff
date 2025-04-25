@@ -6,15 +6,18 @@ authors:
     given-names: "Matthew A."
     orcid: "https://orcid.org/0000-0002-0302-4812"
     affiliation: "Qompass AI"
+    email: "map@qompass.ai"
+    website: "https://www.qompass.ai"
 version: "1.0.0"
-date-released: "2025-04-08"
+date-released: "2025-04-24"
 url: "https://github.com/qompassai/Mojo"
 repository-code: "https://github.com/qompassai/Mojo"
-license: "AGPL-3.0"
+license: "AGPL-3.0 AND QCDA-1.0"
+license-url: "https://github.com/qompassai/Mojo/blob/main/LICENSE-QCDA"
 keywords:
   - quantum
-  - AI
+  - ai
   - post-quantum-cryptography
   - education
-  - Mojo
+  - mojo
 abstract: "Educational Content on the Mojo Programming Language."

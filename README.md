@@ -1,8 +1,130 @@
 # Equator Mojo
-## Educational Content for the Mojo Programming Language
-## 🔖 Zenodo DOI
 
+## Educational Content for the Mojo Programming Language
+
+<p align="center">
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
+  </a>
+  <a href="./LICENSE-QCDA">
+    <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
+  </a>
+</p>
+
+<div align="center">
+
+## Authors
+<p align="center">
+Matthew A. Porter, BSc<sup>1</sup>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/phaedrusflow)
+<sup>1</sup>Qompass AI, Spokane, WA  
+<div align="center">
+
+<h4 align="center">Connect With Me</h4>
+<div align="center">
+  
+[![Personal LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt-a-porter-103535224/)
+[![Startup LinkedIn](https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/95058568/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-0302-4812)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Open--Research-blue?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Matt-Porter-7)
+</div>
+<h3 align="center">Social Media</h3>
+<div align="center">
+  
+[![X/Twitter](https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter)](https://twitter.com/PhaedrusFlow)
+[![Instagram](https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/phaedrusflow)
+[![YouTube](https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube)](https://www.youtube.com/@qompassai)
+</div>
+<h3 align="center">Developer Programs</h3>
+<div align="center">
+ 
+[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
+[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
+[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
+[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
+</div>
+
+<details id="FAQ">
+  <summary><strong>Frequently Asked Questions</strong></summary>
+
+### Q: How do you mitigate against bias?
+
+**TLDR - we do math to make AI ethically useful**
+
+### A: We delineate between mathematical bias (MB) - a fundamental parameter in neural network equations - and algorithmic/social bias (ASB). While MB is optimized during model training through backpropagation, ASB requires careful consideration of data sources, model architecture, and deployment strategies. We implement attention mechanisms for improved input processing and use legal open-source data and secure web-search APIs to help mitigate ASB. 
+
+ [AAMC AI Guidelines | One way to align AI against ASB](https://www.aamc.org/about-us/mission-areas/medical-education/principles-ai-use)
+
+ ### AI Math at a glance
+
+## Forward Propagation Algorithm
+
+$$
+y = w_1x_1 + w_2x_2 + ... + w_nx_n + b
+$$
+
+Where:
+
+- $y$ represents the model output
+- $(x_1, x_2, ..., x_n)$ are input features
+- $(w_1, w_2, ..., w_n)$ are feature weights
+- $b$ is the bias term
+### Neural Network Activation
+
+For neural networks, the bias term is incorporated before activation:
+
+$$
+z = \sum_{i=1}^{n} w_ix_i + b
+$$
+$$
+a = \sigma(z)
+$$
+
+Where:
+- $z$ is the weighted sum plus bias
+- $a$ is the activation output
+- $\sigma$ is the activation function
+
+### Attention Mechanism- aka what makes the Transformer (The "T" in ChatGPT) powerful
+
+* [Attention High level overview video](https://www.youtube.com/watch?v=fjJOgb-E41w)
+
+* [Attention Is All You Need Arxiv Paper](https://arxiv.org/abs/1706.03762)
+
+The Attention mechanism equation is:
+
+$$
+\text{Attention}(Q, K, V) = \text{softmax}\left( \frac{QK^T}{\sqrt{d_k}} \right) V
+$$
+
+Where:
+- $Q$ represents the Query matrix
+- $K$ represents the Key matrix
+- $V$ represents the Value matrix
+- $d_k$ is the dimension of the key vectors
+- $\text{softmax}(\cdot)$ normalizes scores to sum to 1
+
+### Q: Do I have to buy a Linux computer to use this? I don't have time for that!
+### A: No. You can run Linux and/or the tools we share alongside your existing operating system:
+    
+* Windows users can use Windows Subsystem for Linux [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+* Mac users can use [Homebrew](https://brew.sh/)
+* The code-base instructions were developed with both beginners and advanced users in mind.
+
+### Q: Do you have to get a masters in AI?
+### A: Not if you don't want to. To get competent enough to get past ChatGPT dependence at least, you just need a computer and a beginning's mindset. Huggingface is a good place to start. 
+* [Huggingface](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit#slide=id.p)
+
+### Q: What makes a "small" AI model?
+### A: AI models ~=10 billion(10B) parameters and below. For comparison, OpenAI's GPT4o contains approximately 200B parameters.
+
+</details>
+
+<details id="Zenodo DOI">
+  <summary><strong>Digital Object Identifier (DOI) for public transparency and accountability</strong></summary>
 Badge
+</details>
 
 ```markdown
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
@@ -10,15 +132,18 @@ Badge
 
 ---
 
-## 🔬 Research Metadata
+- See `.zenodo.json` for metadata, authorship, licensing, and related software attribution.
 
-See `.zenodo.json` for metadata, authorship, licensing, and related software attribution.
+<details id="Support">
+  <summary><strong>How You Can Support</strong></summary>
+Badge
 
-## ☕ Support
+If you like Qompass AI and the work we do, consider [buying us a coffee](https://www.buymeacoffee.com/phaedrusflow) ☕ or sponsoring ❤️.
 
-If you like this project, consider [buying me a coffee](https://www.buymeacoffee.com/phaedrusflow) ☕ or sponsoring ❤️.
-
-## What a Dual-License means
+</details>
+<details id="Dual-License Notice">
+  <summary><strong>What a Dual-License Means</strong></summary>
+Badge
 
 ### Protection for Vulnerable Populations
 
@@ -64,3 +189,6 @@ By offering both open source and commercial licensing options, we strive to crea
 [^7]: [A Proclamation on Cybersecurity Awareness Month, 2024 ](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/30/a-proclamation-on-cybersecurity-awareness-month-2024/)
 
 [^8]: [Minneapolis school district says data breach affected more than 100,000 people](https://therecord.media/minneapolis-schools-say-data-breach-affected-100000/)
+</details>
+
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-Mojo)
