@@ -1,23 +1,19 @@
 cff-version: 1.2.0
+title: "Mojo"
 message: "If you use this software, please cite it as below."
-title: "Equator Mojo"
 authors:
   - family-names: "Porter"
     given-names: "Matthew A."
     orcid: "https://orcid.org/0000-0002-0302-4812"
     affiliation: "Qompass AI"
-    email: "map@qompass.ai"
-    website: "https://www.qompass.ai"
-version: "1.0.0"
-date-released: "2025-04-24"
-url: "https://github.com/qompassai/Mojo"
+version: "2025-04-28"
+date-released: "2025-04-28"
 repository-code: "https://github.com/qompassai/Mojo"
-license: "AGPL-3.0 AND QCDA-1.0"
-license-url: "https://github.com/qompassai/Mojo/blob/main/LICENSE-QCDA"
+license: "AGPL-3.0 AND Qompass-Commercial-Data-Agreement"
 keywords:
-  - quantum
-  - ai
-  - post-quantum-cryptography
-  - education
-  - mojo
-abstract: "Educational Content on the Mojo Programming Language."
+  - AI
+  - Quantum
+  - Post-Quantum Cryptography
+  - Education
+  - Healthcare
+abstract: "Equator Mojo: Educational Content on the Mojo Programming Language"
