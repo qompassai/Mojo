@@ -1,3 +1,7 @@
+
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-Mojo)
+
+
 # Equator Mojo
 
 ## Educational Content for the Mojo Programming Language
