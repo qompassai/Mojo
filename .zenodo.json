@@ -5,18 +5,17 @@
   "language": "eng",
   "upload_type": "software",
   "access_right": "open",
-  "version": "2025-04-28-8-g547c6ad",
+  "version": "2025-04-28-9-ga6fe8b9",
   "publication_date": "2025-05-03",
   "creators": [
     {
       "name": "Porter, Matthew A.",
       "affiliation": "Qompass AI",
-      "orcid": "0000-0002-0302-4812"
+      "orcid": "0000-0002-0302-4812",
       "type": "Author"
     }
   ],
-  "keywords": ["["AI","Education","Healthcare","Post-Quantum Cryptography","Quantum","opensource","software"]"
-  ],
+  "keywords": "["AI","Education","Healthcare","Post-Quantum Cryptography","Quantum","opensource","software"]",
   "related_identifiers": [
     {
       "identifier": "https://github.com/qompassai/Mojo",
