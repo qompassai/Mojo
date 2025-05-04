@@ -5,7 +5,7 @@
   "language": "eng",
   "upload_type": "software",
   "access_right": "open",
-  "version": "2025-04-28-15-gb4ea21a",
+  "version": "2025-04-28-16-g0804a19",
   "publication_date": "2025-05-03",
   "creators": [
     {
@@ -17,39 +17,14 @@
   ],
   "keywords": ["AI","Education","Healthcare","Post-Quantum Cryptography","Quantum","opensource","software"],
   "related_identifiers": [
-    {
-      "identifier": "https://github.com/qompassai/Mojo",
-      "relation": "isSupplementTo",
-      "resource_type": "software"
-    },
-    {
-      "identifier": "https://github.com/qompassai/Mojo/releases/tag/2025-05-03",
-      "relation": "isIdenticalTo",
-      "resource_type": "software"
-    },
-    {
-      "identifier": "https://orcid.org/0000-0002-0302-4812",
-      "relation": "isAuthorOf",
-      "resource_type": "person"
-    },
-    {
-      "identifier": "https://github.com/qompassai/Mojo/actions",
-      "relation": "isCompiledBy",
-      "resource_type": "workflow"
-    }
+    { "identifier": "https://github.com/qompassai/Mojo", "relation": "isSupplementTo", "resource_type": "software" },
+    { "identifier": "https://github.com/qompassai/Mojo/releases/tag/2025-05-03", "relation": "isIdenticalTo", "resource_type": "software" },
+    { "identifier": "https://orcid.org/0000-0002-0302-4812", "relation": "isAuthorOf", "resource_type": "person" },
+    { "identifier": "https://github.com/qompassai/Mojo/actions", "relation": "isCompiledBy", "resource_type": "workflow" }
   ],
-  "communities": [
-    { "identifier": "qompassai" }
-  ],
+  "communities": [ { "identifier": "qompassai" } ],
   "contributors": [
-    {
-      "name": "Porter, Matthew A.",
-      "orcid": "https://orcid.org/0000-0002-0302-4812",
-      "type": "Author"
-    },
-    {
-      "name": "Qompass AI",
-      "type": "Sponsor"
-    }
+    { "name": "Porter, Matthew A.", "orcid": "https://orcid.org/0000-0002-0302-4812", "type": "Author" },
+    { "name": "Qompass AI", "type": "Sponsor" }
   ]
 }
