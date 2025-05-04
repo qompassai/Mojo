@@ -10,5 +10,12 @@ version: "2025-05-03"
 date-released: "2025-05-03"
 repository-code: "https://github.com/qompassai/Mojo"
 license: "["AGPL-3.0", "Q-CDA-1.0"]"
-keywords: ["AI","Education","Healthcare","Post-Quantum Cryptography","Quantum","opensource","software"]
+keywords:
+  - AI
+  - Education
+  - Healthcare
+  - Post-Quantum Cryptography
+  - Quantum
+  - opensource
+  - software
 abstract: "Equator Mojo: Educational Content on the Mojo Programming Language"
