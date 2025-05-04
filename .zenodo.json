@@ -1,11 +1,11 @@
 {
   "title": "Mojo",
   "description": "Equator Mojo: Educational Content on the Mojo Programming Language",
-  "license": ["AGPL-3.0", "Q-CDA-1.0"],
+  "license": ["AGPL-3.0","Q-CDA-1.0"],
   "language": "eng",
   "upload_type": "software",
   "access_right": "open",
-  "version": "2025-04-28-13-ga5b4919-dirty",
+  "version": "2025-04-28-14-ge81de04",
   "publication_date": "2025-05-03",
   "creators": [
     {

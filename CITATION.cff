@@ -9,7 +9,7 @@ authors:
 version: "2025-05-03"
 date-released: "2025-05-03"
 repository-code: "https://github.com/qompassai/Mojo"
-license: "["AGPL-3.0", "Q-CDA-1.0"]"
+license: ["AGPL-3.0","Q-CDA-1.0"]
 keywords:
   - AI
   - Education
