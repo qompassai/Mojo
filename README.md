@@ -1,14 +1,12 @@
+<!-- /qompassai/mojo/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
 
-![Repository Views](https://komarev.com/ghpvc/?username=qompassai-Mojo)
-
-
-# Equator Mojo
-
-## Educational Content for the Mojo Programming Language
 <h1 align="center">Equator Mojo</h1>
 
 <h2 align="center">Educational Content on the Mojo Programming Language</h2>
 
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-Mojo)
 <p align="center">
   <a href="https://www.modular.com/mojo"><img src="https://img.shields.io/badge/Mojo%F0%9F%94%A5-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABR0lEQVQ4y52TvUoDQRSFz51ZJdndGIxYpBIRtLEQLARBsLCxEfEBfAGfQHyEFDbpU9kIFoKdrU1AEFGCkH92Z+ZaZDcJm91IOoeB4d7vfHNnLpBimqaUp2mHmuDz12v/ETBJEgrdA9eABjrNpnm4vpr1fO/0t4zGGFar1aNzQTPOTg+8MqBB6wgA3ntJ0gGcn1/MGLtY2a2M54s+L+97qwASRCQgQ/0OOO/F4y7KfwklD8Dl3UM0DpNqBjRsQf9WuVg8rtfb3l3pBmMMQggIIRA1I4gO4Ksdr9uOYRxLlRv/B2xBC0DKrDJzc04fgxvbytR00HdUYTTCVmtEfgUoAVUAfYkgxGbbjjJrUgYA0AaGC6A9Yl0CvdVQBnR3lHkbX4/73fYpIJ1njBARZlmG+R7FmHFhBFdvj1fm5+jkG8bYPSbznRSKAAAAAElFTkSuQmCC" alt="Mojo"></a>
   <br>
@@ -20,13 +18,6 @@
 </p>
 
 
-
-### 📄 <Mojo Projects>
-
-- [Qompass blaze.nvim](https://github.com/qompassai/blaze.nvim)
-- [Qompass blaze-ts.nvim](https://github.com/qompassai/blaze-ts.nvim)
-
----
 
 <details id="Contact">
   <summary><strong>Contact Qompass AI</strong></summary>
@@ -194,24 +185,6 @@ Where:
 
 </details>
 
-<details id="Zenodo DOI">
-  <summary><strong>Digital Object Identifier (DOI) for public transparency and accountability</strong></summary>
-Badge
-
-
-```markdown
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxx)
-```
-
----
-
-- See `.zenodo.json` for metadata, authorship, licensing, and related software attribution.
-</details>
-
-## 🧭 Attribution
-
-
-
 <details id="Dual-License Notice">
   <summary><strong>What a Dual-License Means</strong></summary>
 
@@ -260,12 +233,4 @@ By offering both open source and commercial licensing options, we strive to crea
 
 [^8]: [Minneapolis school district says data breach affected more than 100,000 people](https://therecord.media/minneapolis-schools-say-data-breach-affected-100000/)
 </details>
-
-
-
-![Repository Views](https://komarev.com/ghpvc/?qompassai-Mojo)
-
-<p align="center">
-  <i>Last Updated: <timestamp></i>
-</p>
 
