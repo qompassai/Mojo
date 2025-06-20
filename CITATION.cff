@@ -10,6 +10,7 @@ version: "v2025-06-20"
 date-released: "2025-06-20"
 repository-code: "https://github.com/qompassai/Mojo"
 license: "Q-CDA-1.0"
+license-url: "https://github.com/qompassai/license/blob/main/LICENSE"
 keywords:
   - AI
   - Education
