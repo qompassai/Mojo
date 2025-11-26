@@ -1,4 +1,0 @@
-# ~/.tributors
-{
-  "parsers": ["github", "zenodo", "allcontrib"]
-}
