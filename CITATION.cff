@@ -6,8 +6,8 @@ authors:
     given-names: "Matthew A."
     orcid: "https://orcid.org/0000-0002-0302-4812"
     affiliation: "Qompass AI"
-version: "v2026-09-15"
-date-released: "2026-09-15"
+version: "v2026-09-21"
+date-released: "2026-09-21"
 repository-code: "https://github.com/qompassai/Mojo"
 license: "Q-CDA-1.0"
 keywords:
@@ -16,6 +16,7 @@ keywords:
   - Healthcare
   - Post-Quantum Cryptography
   - Quantum
-  - opensource
-  - software
+  - accelerated computing
+  - ai
+  - mojo
 abstract: "Equator Mojo: Educational Content on the Mojo Programming Language"
