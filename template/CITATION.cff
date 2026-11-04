@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Mojo template"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - name: "Qompass AI"
+license: "Apache-2.0"
+repository-code: "https://github.com/qompassai/mojo-project-template"
+abstract: "Template for Qompass AI Mojo projects."
